@@ -60,3 +60,8 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+.DS_Store
+TrapicJam/.DS_Store
+TrapicJam/TrapicJam/.DS_Store
+TrapicJam/TrapicJam/Assets.xcassets/.DS_Store
